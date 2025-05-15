@@ -18,5 +18,6 @@
     클러스터 생성 단계
     terraform 공식 registry 에 등록된 모듈을 활용한다.
 
-5. 03_Addons 
-    Terraform 을 helm provider와 연동하여 구성을 갖춰 blueprints의 규격을 활용한다.
+5. gitops 를 통한 addon 관리 및 workload 배포
+
+6. cluster addon 및 workload traffic balancing 전략
