@@ -1,0 +1,18 @@
+{
+  "apiVersion": "v1",
+  "kind": "Namespace",
+  "metadata": {
+    "creationTimestamp": "2025-03-24T04:49:12Z",
+    "deletionTimestamp": "2025-03-24T05:24:03Z",
+    "labels": {
+      "kubernetes.io/metadata.name": "kyverno"
+    },
+    "name": "kyverno",
+    "resourceVersion": "14540",
+    "uid": "4227a5fa-ca4e-498e-8da9-bc28b5148f61"
+  },
+  "spec": {},
+  "status": {
+    "phase": "Terminating"
+  }
+}
